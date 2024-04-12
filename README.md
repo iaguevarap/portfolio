@@ -4,8 +4,8 @@
 
 ## Education
 - Ph.D., Physics | Griffith University (_2016_)								       		
-- M.S., Physics	| Universidad Nacional de Colombia (_December 2012_)	 			        		
-- B.S., Physics | Universidad Nacional de Colombia (_May 2008_)
+- M.Sc., Physics | Universidad Nacional de Colombia (_2012_)	 			        		
+- B.Sc., Physics | Universidad Nacional de Colombia (_2008_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
